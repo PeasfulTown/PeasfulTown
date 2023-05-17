@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hello there, I'm a back-end developer using Java and Spring, currently brushing up my skills. 
+Hello there, I'm a back-end developer using Java, currently brushing up my skills. 
 
 You can find me at these places:
 
